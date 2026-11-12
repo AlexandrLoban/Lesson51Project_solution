@@ -1,0 +1,1 @@
+int get_hidden_num(int* array, int size);
